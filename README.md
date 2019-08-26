@@ -1,2 +1,16 @@
 # 9wa6iya
 dico 9wa6iya
+*******************
+
+
+The idea is simple...
+It stipulates to write the La9wa6i vocabulary on a file such as EXCEL on Windows, or LibreOffice Calc on Linux... which are simple and organised envirenements...
+
+Then, the written words, are gonna get copied into an "edit file" on github... Where it's gonna be easier to keep trace of the modifications on translated data, and to make it easier for a group of collaborators to work on the same data.
+
+*******************
+
+L'idée est simple...
+Ca stipule écrire le vocabulaire La9wa6i dans un fichier tel que EXCEL sur Windows, ou LibreOffice Calc sur Linux... qui sont des environnements simples et bien organisés...
+
+Par la suite, les mots écrits vont êtres copiés dans un "edit file" sur github... Où il sera pls aisé de conserver la trace des modifications apportées aux données traduites, ainsi que de simplifier la tâche à un groupe de collaborateurs de travailler sur les mêmes données.
